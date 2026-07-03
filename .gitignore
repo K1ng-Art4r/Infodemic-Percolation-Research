@@ -1,0 +1,25 @@
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.venv/
+venv/
+
+# System files
+.DS_Store
+
+# Raw / private data
+hoaxy_data/
+data/raw/
+data/private/
+
+# Archives
+*.zip
+*.tar.gz
+*.rar

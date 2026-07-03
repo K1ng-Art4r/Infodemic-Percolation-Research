@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+networkx
+scikit-learn
+scipy
+python-louvain
+jupyter
+notebook
