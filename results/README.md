@@ -2,15 +2,6 @@
 
 This folder contains the key outputs generated during the research.
 
-## Structure
-
-results/
-├── figures/
-│   ├── synthetic/
-│   └── hoaxy/
-└── tables/
-    ├── synthetic/
-    └── hoaxy/
 
 ## Figures
 
