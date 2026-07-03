@@ -243,6 +243,6 @@ If you use this repository in academic work, please cite the corresponding resea
 
 ## Author
 
-**Alex Ey**
+**K1ng-Art4r**
 
 Research project in network science, computational social science, and misinformation dynamics.
